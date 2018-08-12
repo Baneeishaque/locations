@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "locations",
+    "icon": "icon.png",
+    "version": "1.0.0",
+    "slug": "locations",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "ndk.locations",
+      "config": {
+        "googleMapsApiKey": "AIzaSyCLOsdIVc5bWkqJVKuSp2Zd-KS3UXzGivU"
+      }
+    },
+    "android": {
+      "package": "ndk.locations",
+      "config": {
+        "googleMaps": { "apiKey": "AIzaSyDQSzCW6U9UN_CpKO3QjWQ4xqLuq_mIFzI" }   
+      }
+    }
+   }
+}
