@@ -1,3 +1,4 @@
+# Map Locations
 ![Expo Publish](https://github.com/Baneeishaque/locations/workflows/Expo%20Publish/badge.svg)
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
